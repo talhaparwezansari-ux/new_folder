@@ -1,5 +1,5 @@
-l = []
+L = [] #l is now L
 for i in range(1,10):
-    l.appen(i)
+    L.appen(i)
 
-print(l)
+print(L)
