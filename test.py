@@ -1,0 +1,1 @@
+print('ENd Term Score is 82')
